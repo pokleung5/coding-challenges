@@ -1,7 +1,9 @@
 # coding-challenges
 
----
+Records of my code in below awesome website !
+Definitely worth trying !!!
 
+---
 ## ACM-challenges
 ACM challenges on https://www.cs.cityu.edu.hk/~acm/
 (For CityU students, plz try before seeing the answer.)
@@ -27,3 +29,6 @@ Language used: Python
 - Minimax (negamax) algorithm
 
 
+---
+## Leet Code
+Challenges at https://leetcode.com
